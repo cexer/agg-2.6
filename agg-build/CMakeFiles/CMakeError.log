@@ -1,0 +1,19 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/develop/project/libs/agg-2.6/agg-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/chao/VS2008/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_31063"
+
+Microsoft (R) Visual Studio 9.0.30729.1 版。
+版权所有(C) Microsoft Corp。保留所有权利。
+1>------ 已启动生成: 项目: cmTC_31063, 配置: Debug Win32 ------
+1>正在编译...
+1>用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 15.00.30729.01 版
+1>版权所有(C) Microsoft Corporation。保留所有权利。
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_31063.dir\Debug\\" /Fd"cmTC_31063.dir\Debug\vc90.pdb" /W3 /c /Zi /TC ".\CheckIncludeFile.c"
+1>CheckIncludeFile.c
+1>.\CheckIncludeFile.c(1) : fatal error C1083: 无法打开包括文件:“pthread.h”: No such file or directory
+1>生成日志保存在“file://f:\develop\project\libs\agg-2.6\agg-build\CMakeFiles\CMakeTmp\cmTC_31063.dir\Debug\BuildLog.htm”
+1>cmTC_31063 - 1 个错误，0 个警告
+========== 生成: 成功 0 个，失败 1 个，最新 0 个，跳过 0 个 ==========
+
+

@@ -1,0 +1,44 @@
+# CMake generation dependency list for this directory.
+F:/develop/project/libs/agg-2.6/agg-src/CMakeLists.txt
+F:/develop/project/libs/agg-2.6/agg-build/CMakeFiles/3.10.0-rc3/CMakeSystem.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake
+F:/develop/project/libs/agg-2.6/agg-build/CMakeFiles/3.10.0-rc3/CMakeCCompiler.cmake
+F:/develop/project/libs/agg-2.6/agg-build/CMakeFiles/3.10.0-rc3/CMakeCXXCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/Platform/WindowsPaths.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC.cmake
+F:/develop/project/libs/agg-2.6/agg-build/CMakeFiles/3.10.0-rc3/CMakeRCCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCXXInformation.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/FindSDL.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/FindThreads.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CheckLibraryExists.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CheckSymbolExists.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+F:/develop/project/libs/agg-2.6/agg-src/bin/AggConfig.cmake.in
+F:/develop/project/libs/agg-2.6/agg-src/bin/AggConfigOutBuild.cmake.in
+F:/develop/project/libs/agg-2.6/agg-src/bin/FindAgg.cmake
+F:/develop/project/libs/agg-2.6/agg-src/bin/UseAgg.cmake.in
+F:/develop/project/libs/agg-2.6/agg-src/myapp/myproject.cmake
+F:/develop/project/libs/agg-2.6/agg-src/bin/FindAgg.cmake
+F:/develop/project/libs/agg-2.6/agg-src/bin/FindEXPAT.cmake
+F:/develop/project/libs/agg-2.6/agg-src/bin/FindFreetype.cmake
+F:/develop/project/libs/agg-2.6/agg-src/myapp/CMakeLists.txt.in
+F:/develop/project/libs/agg-2.6/agg-src/myapp/my_demo.cpp
+F:/develop/project/libs/agg-2.6/agg-src/myapp/agg2d_demo.cpp

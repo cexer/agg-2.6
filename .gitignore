@@ -1,0 +1,10 @@
+*.user
+.vs
+temp
+lib
+bin
+*.lib
+*.idb
+*.pdb
+*.ncb
+agg-build\temp

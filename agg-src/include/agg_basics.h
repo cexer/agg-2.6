@@ -19,6 +19,9 @@
 #include <cmath>
 #include "agg_config.h"
 
+#undef min
+#undef max
+
 //---------------------------------------------------------AGG_CUSTOM_ALLOCATOR
 #ifdef AGG_CUSTOM_ALLOCATOR
 #include "agg_allocator.h"

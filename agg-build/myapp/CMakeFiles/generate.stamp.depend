@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+F:/develop/project/libs/agg-2.6/agg-src/myapp/CMakeLists.txt
+F:/develop/project/libs/agg-2.6/agg-build/myapp/FindAgg.cmake
+F:/develop/project/libs/agg-2.6/agg-build/bin/AggConfig.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
